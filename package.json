@@ -1,7 +1,12 @@
 {
   "name": "hardhat-project",
   "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.10",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/ignition-core": "^0.15.10",
     "hardhat": "^2.22.19"
+  },
+  "dependencies": {
+    "typescript": "^5.8.2"
   }
 }
